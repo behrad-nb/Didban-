@@ -2,8 +2,12 @@
 
 ### Persian WordPress Analytics & Monitoring Plugin
 
-دیدبان؛ نبض سایت وردپرسی خود را زیر نظر بگیرید.
+<img width="1920" height="955" alt="Image" src="https://github.com/user-attachments/assets/67f6b4e9-3474-42c8-8898-f46b9602d56e" />
+<img width="1920" height="952" alt="Image" src="https://github.com/user-attachments/assets/0387ec4b-0c5f-4643-a901-d66c18915741" />
+<img width="1915" height="953" alt="Image" src="https://github.com/user-attachments/assets/6451ef07-0bbb-4e91-81ae-dd4cdbf314d3" />
+<img width="1920" height="952" alt="Image" src="https://github.com/user-attachments/assets/615c6f52-de5e-4eb1-84b6-80be75d3b91c" />
 
+دیدبان؛ نبض سایت وردپرسی خود را زیر نظر بگیرید.
 Didban is a free Persian WordPress plugin designed to help website owners understand visitor activity, monitor website performance, and track important events through a visual dashboard.
 
 دیدبان با هدف ارائه ابزار تحلیل و نظارت ساده و کاربردی برای مدیران سایت‌های فارسی‌زبان توسعه داده شده است.
