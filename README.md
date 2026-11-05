@@ -3,7 +3,13 @@
 ### Persian WordPress Analytics & Monitoring Plugin
 
 Remember to delete the README.md file.
-پ
+
+
+
+
+
+
+
 به یاد داشته باشید که فایل README.md رو پاک کنید.
 
 <img width="1920" height="955" alt="Image" src="https://github.com/user-attachments/assets/67f6b4e9-3474-42c8-8898-f46b9602d56e" />
